@@ -1,0 +1,6 @@
+{
+  "name": "Structura - Enterprise Construction Intelligence & Oversight OS",
+  "description": "Enterprise construction lifecycle platform for land/floor plan spec estimation, 360° proposed BIM and turnkey finished building visualization, periodic monitoring (daily/weekly/monthly), budget variance alerts, and site vision reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
